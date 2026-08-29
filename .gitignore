@@ -1,3 +1,6 @@
+build/echo release/echo *.exeecho *.gbcecho *.savecho *.jsonecho imgui.ini
+*.gbc
+*.gb
 build/
 *.exe
-Legend_of_Zelda__The___Oracle_of_seasons__USA__metadata.json
+*_metadata.json
